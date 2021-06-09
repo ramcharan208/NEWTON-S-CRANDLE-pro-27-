@@ -3,5 +3,5 @@ the Newton's cradle is a device that demonstrates the conservation of momentum a
 
 PROJECT BY R.RAMCHARAN 
 
-click there to see the full out put - [click here](https://ramcharan208.github.io/NEWTON-S-CRANDLE-pro-27-/)
+click there to see the full output - [click here](https://ramcharan208.github.io/NEWTON-S-CRANDLE-pro-27-/)
 
